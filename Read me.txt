@@ -1,0 +1,2 @@
+﻿Chạy chương trình:
++ Hàm main() ở trong class DictionaryCommandLineImplement
