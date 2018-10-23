@@ -1,0 +1,49 @@
+about	trong khoảng
+absolute	tuyệt đối
+access	truy cập
+angly	giận dữ
+auto	tự động
+believe	tin tưởng
+build	xây dựng
+bye	tạm biệt
+cat	con mèo
+clock	đồng hồ
+cloud	đám mây
+computer	máy tính
+create	tạo nên
+cup	chiếc cốc
+dancing	khiêu vũ
+develop	phát triển
+dictionary	từ điển
+dog	con chó
+eat	ăn
+enter	đi vào
+file	tệp
+fly	bay
+folder	thư mục
+format	định dạng
+go	đi
+good	tốt
+hight	cao
+interface	giao diện
+job	công việc
+key	khóa
+like	thích
+look	nhìn
+main	chủ yếu
+music	âm nhạc
+new	mới
+notice	thông báo
+orange	quả cam
+play	chơi
+program	chương trình
+quit	thoát
+real	thực
+setting	cài đặt
+sound	âm thanh
+table	bàn
+translate	dịch
+try	cố gắng
+work	làm việc
+world	thế giới
+year	năm

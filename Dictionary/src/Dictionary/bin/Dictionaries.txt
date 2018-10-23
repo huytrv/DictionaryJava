@@ -1,0 +1,39 @@
+access	truy cập
+auto	tự động
+believe	tin tưởng
+build	xây dựng
+bye	tạm biệt
+cat	con mèo
+cloud	đám mây
+computer	máy tính
+dancing	khiêu vũ
+develop	phát triển
+dictionary	từ điển
+dog	con chó
+eat	ăn
+file	tệp
+fine	khỏe
+fly	bay
+folder	thư mục
+format	định dạng
+go	đi
+good	tốt
+hight	cao
+job	công việc
+key	khóa
+legend	huyền thoại
+like	thích
+look	nhìn
+main	chủ yếu
+music	âm nhạc
+new	mới
+notice	thông báo
+play	chơi
+program	chương trình
+setting	cài đặt
+sound	âm thanh
+student	học sinh
+study	học
+try	cố gắng
+work	làm việc
+world	thế giới
