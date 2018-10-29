@@ -1,0 +1,68 @@
+about	trong khoảng
+absolute	tuyệt đối
+access	truy cập
+angly	giận dữ
+application	ứng dụng
+auto	tự động
+available	có sẵn
+believe	tin tưởng
+book	sách
+box	cái hộp
+build	xây dựng
+bye	tạm biệt
+cat	con mèo
+clock	đồng hồ
+cloud	đám mây
+computer	máy tính
+create	tạo nên
+cup	chiếc cốc
+dancing	nhảy
+data	dữ liệu
+develop	phát triển
+dictionary	từ điển
+dog	con chó
+eat	ăn
+element	thành phần
+enter	đi vào
+file	tệp
+fly	bay
+folder	thư mục
+format	định dạng
+global	toàn cầu
+go	đi
+good	tốt
+group	nhóm
+help	giúp đỡ
+hight	cao
+image	hình ảnh
+interface	giao diện
+job	công việc
+key	khóa
+like	thích
+look	nhìn
+main	chủ yếu
+music	âm nhạc
+new	mới
+notice	thông báo
+orange	quả cam
+order	gọi món
+play	chơi
+program	chương trình
+quit	thoát
+real	thực
+request	yêu cầu
+rise	tăng lên
+roll	cuộn
+row	hàng
+setting	cài đặt
+sound	âm thanh
+source	nguồn
+table	bàn
+top	hàng đầu
+translate	dịch
+try	cố gắng
+university	trường đại học
+work	làm việc
+world	thế giới
+year	năm
+zoo	vườn bách thú
